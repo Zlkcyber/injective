@@ -4,8 +4,6 @@ auto mint injs-20 #Inscription with typescript
 
 ### How to use:
 
-0. run similar with video: https://twitter.com/solotop999/status/1736726215116177505
-
 1. Install nodejs and npm: [Here](https://phoenixnap.com/kb/install-node-js-npm-on-windows)
 
 
@@ -21,7 +19,7 @@ auto mint injs-20 #Inscription with typescript
     -  `npm install`
 
 4. Start:
-    -  `ts-node-cwd.cmd start.ts`
+    -  `ts-node-cwd start.ts`
 
 
-![image](https://github.com/solotop999/injective-mint-inscription/assets/24671262/cb2f6f3d-81bd-4131-920b-c411e334b826)
+![image](https://github.com/solotop999/injective-mint-inscription/assets/24671262/cb2f6f3d-81bd-4131-920b-c411e334b826))
